@@ -33,7 +33,7 @@ __doc__ = long_description
 
 setup(
     name='pixelinkds',
-    version='0.1',
+    version='0.2.dev0',
     description='PixeLINK Data Steam (PDS) Files in Python.',
     long_description=long_description,
     keywords='PixeLINK Data Stream PDS image movie',
