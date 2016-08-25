@@ -1,0 +1,9 @@
+PixeLINKds Changelog
+====================
+
+0.1 (unreleased)
+----------------
+
+- First public release.
+- Implemented a Reader for homogeneous Pixelink Data Stream file.
+- Implemented Frame Descriptor based on ctypes structure.
